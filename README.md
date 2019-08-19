@@ -13,10 +13,10 @@ http://www.mcbbs.net/forum.php?mod=viewthread&tid=720920&page=1
 https://tieba.baidu.com/p/5273470329
 
 ## Related links
-Update record (Tieba): http://tieba.baidu.com/p/3007295394<br>
-教学区+宿舍pc存档展示：https://www.bilibili.com/video/av3895252<br>
-【Minecraft】光与影的交相辉映——赣州中学的日夜更替：https://www.bilibili.com/video/av12056598<br>
-【超还原大赛】【Minecraft×江西省赣州中学】时光荏苒，母校永恒：https://www.bilibili.com/video/av13661029
+- [Update record (Tieba)](http://tieba.baidu.com/p/3007295394 "Tieba update page(may unable to access)")<br>
+- [教学区+宿舍pc存档展示](https://www.bilibili.com/video/av3895252 "Ganzhou Middle School in Minecraft, teaching area and dormitory A")<br>
+- [【Minecraft】光与影的交相辉映——赣州中学的日夜更替](https://www.bilibili.com/video/av12056598 "Ganzhou Middle School in Minecraft, day and night cycle")<br>
+- [【超还原大赛】【Minecraft×江西省赣州中学】时光荏苒，母校永恒](https://www.bilibili.com/video/av13661029 "av13661029(Bilibili)")
 
 ## Ganzhou Middle School - Minecraft JAVA Edition, construction record and contributors：
 #### Teaching area
