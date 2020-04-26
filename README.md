@@ -43,7 +43,7 @@ https://tieba.baidu.com/p/5273470329
 2017/07/16 - 2017/08/11, contributed by \_mikuappend, LIuS_ (decoration).
 #### Playground (Small)
 2017/07/25 - 2017/07/26, contributed by \_mikuappend.
-#### Staff dormitory
+#### Staffs' dormitory
 2017/08/01 - 2017/08/11, contributed by \_mikuappend.<br>
 ## Special thanks
 Drone aerial photography: BuckForce.<br>
