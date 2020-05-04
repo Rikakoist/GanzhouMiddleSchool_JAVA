@@ -2,7 +2,6 @@
 Minecraft saves of Ganzhou Middle School
 
 # Ganzhou Middle School - Minecraft JAVA Edition
-Version: 201709150805.<br>
 <br>
 Built to memorize the school that we stayed for 7 years, and to keep her beauty forever...
 
