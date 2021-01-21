@@ -43,7 +43,9 @@ https://tieba.baidu.com/p/5273470329
 #### Playground (Small)
 2017/07/25 - 2017/07/26, contributed by \_mikuappend.
 #### Staffs' dormitory
-2017/08/01 - 2017/08/11, contributed by \_mikuappend.<br>
+2017/08/01 - 2017/08/11, contributed by \_mikuappend.
+#### Smaller football field
+2021/01/19 - 2021/01/21, contributed by \_mikuappend, man6656, Gyria.<br>
 ## Special thanks
 Drone aerial photography: BuckForce.<br>
 Dormitory region B materials: 杨.<br>
