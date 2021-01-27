@@ -45,8 +45,11 @@ https://tieba.baidu.com/p/5273470329
 #### Staffs' dormitory
 2017/08/01 - 2017/08/11, contributed by \_mikuappend.
 #### Small football field
-2021/01/19 - 2021/01/21, contributed by \_mikuappend, man6656, Gyria.<br>
+2021/01/19 - 2021/01/21, contributed by \_mikuappend, man6656, Gyria.
+#### Indoor swimming pool
+2021/01/21 - 2021/01/27, contributed by \_mikuappend, A_passer (base framework), LIuS_ (decoration), man6656, Cipher (knowledge).
 ## Special thanks
 Drone aerial photography: BuckForce.<br>
 Dormitory region B materials: 杨.<br>
+Indoor swimming pool materials: Mr. Yang.<br>
 Blueprint: Intelligent Student Card Studio.
